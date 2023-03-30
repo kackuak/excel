@@ -1,0 +1,97 @@
+body{
+    background-color: white;
+    font-size: 20px;
+}
+
+
+
+header{
+    background-color: #107c41;
+    color: white;
+    height: 80px;
+    display: flex;
+        justify-content: center;
+        align-content: center;
+}
+h1{
+    display: flex;
+        justify-content: center;
+        align-content: center;
+}
+td{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    background-color: white;
+}
+.kontener{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+}
+table{
+    margin: 40px;
+        justify-content: center;
+        align-content: center;
+        background-color: black;
+}
+.szare{
+    background-color: lightgrey;
+}
+
+#corner{
+    background-color: grey;
+}
+#pole:hover{
+    background-color: lightgray;
+}
+#pole:active{
+    background-color: lightyellow;
+}
+.szare:hover{
+    background-color: grey;
+}
+.input{
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+    border: none;
+    text-align: center;
+
+}
+.input:hover{
+    background-color: lightgray;
+}
+.input:active{
+    background-color: lightgreen;
+}
+button{
+    border-radius: 20px;
+}
+.przyciski{
+    display: flex;
+        justify-content: center;
+        align-content: center;
+        position: relative;
+        top: -20px;
+}
+button:hover{
+    background-color: lightgrey;
+}
+button:active{
+    background-color: grey;
+}
+.wynik{
+    border-radius: 20px;
+    text-align: center;
+}
+.wynik:hover{
+    background-color: lightgrey;
+}
+.wynikk{
+    display: flex;
+        justify-content: center;
+        align-content: center;
+        position: relative;
+        top: -10px;
+}
